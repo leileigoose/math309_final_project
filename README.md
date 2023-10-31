@@ -16,7 +16,7 @@ the fortune, of the player at that time. Bankruptcy means fortune equal to or le
 Simulate 10000 games and histogram the fortune
 
 # Problem 2
-???
+Problem #2
 
 # Problem 3
 The problem in this section is the same for all groups.
