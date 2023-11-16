@@ -1,7 +1,7 @@
 # Group 1 Members
 Aleia, Nick, Avi, Mehdi, Dexter
 
-# Problem 2
+# Problem 2 - Part #2
 Each of seven dwarfs has his own bed in a common dormitory. Every night, they retire
 to bed one at a time, always in the same sequential order. On a particular evening,
 the youngest dwarf, who always retires first, has had too much to drink. He randomly
