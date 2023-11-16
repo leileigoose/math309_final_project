@@ -1,0 +1,7 @@
+The length of the arc between any two points a and b for a function f (x) is defined as
+S = ∫ √ (1 + (f ′(x))2 dx)
+
+Write a program to that takes as inputs a function f (x), an interval [a, b] and outputs the arc length over [a, b]. 
+The program should use centered difference to approximate f ′(x) and trapezoidal rule to approximate the integral. 
+Hence, the program should also take in n, the number of sub-divisions of the interval [a, b] as input. 
+Use the same n for the approximations of the derivative and the integral.
