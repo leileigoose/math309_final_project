@@ -5,7 +5,7 @@ Aleia, Nick, Avi, Mehdi, Dexter
 The board has 40 squares, including "Go" (Squares 0 and 40). Players start at Go with $200 and roll dice to move. Certain squares have card instructions, impacting money. Squares 0, 10, and 20 are free; Square 30 is "Go to jail." Bankruptcy occurs if a player's money drops to $0 or below.
 The objective is to simulate 10,000 games, recording player fortunes after 20 rolls or bankruptcy; generate a histogram to visualize the distribution of outcomes. 
 
-To run, open the Miniopoly simulation program, specify the number of games (e.g., 10,000), and Run the simulation. View the generated histogram to analyze player fortunes.
+To run, open the Miniopoly simulation program, specify the number of games (e.g., 10,000), and Run the simulation. View the generated histogram to analyze player fortunes. The simulation reveals the range of player fortunes after 20 rolls or bankruptcy, providing insights into Miniopoly outcomes.
 
 # Question 2 - Part #2
 Each of seven dwarfs has his own bed in a common dormitory. Every night, they retire
