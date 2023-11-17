@@ -18,7 +18,7 @@ the kth dwarf to retire can sleep in his own bed. Simulate 10000000 times to fin
 probability.
 
 # Question 3 
-The The program employs the centered difference method to approximate f'(x) and the trapezoidal rule to approximate the integral. The user is required to input the function f(x), the interval [a,b], and the number of sub-divisions(n).
+The program employs the centered difference method to approximate f'(x) and the trapezoidal rule to approximate the integral. The user is required to input the function f(x), the interval [a,b], and the number of sub-divisions(n).
 
 To run, Input the function f(x), interval [a,b], and the number of sub-divisions (n). Run the program to obtain the arc length. 
 
