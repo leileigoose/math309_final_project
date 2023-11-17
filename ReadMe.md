@@ -18,4 +18,4 @@ the kth dwarf to retire can sleep in his own bed. Simulate 10000000 times to fin
 probability.
 
 # Question 3 
-
+The 
